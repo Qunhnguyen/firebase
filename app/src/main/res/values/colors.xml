@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primaryColor">#E50914</color> <!-- Netflix Red -->
+    <color name="primaryVariant">#B20710</color>
+    <color name="backgroundColor">#141414</color> <!-- Dark Background -->
+    <color name="surfaceColor">#2F2F2F</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="textSecondary">#B3B3B3</color>
+    <color name="accentColor">#FFD700</color> <!-- Gold for Rating -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>
